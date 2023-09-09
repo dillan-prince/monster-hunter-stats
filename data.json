@@ -1,0 +1,5388 @@
+{
+  "monster": [
+    {
+      "id": 1,
+      "name": "Great Izuchi",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 21,
+      "weaknesses": {
+        "Head": {
+          "fire": 10,
+          "water": 20,
+          "thunder": 25,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Torso": {
+          "fire": 10,
+          "water": 10,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Foreleg": {
+          "fire": 10,
+          "water": 10,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 10,
+          "water": 15,
+          "thunder": 20,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Tail Tip": {
+          "fire": 15,
+          "water": 20,
+          "thunder": 25,
+          "ice": 15,
+          "dragon": 10
+        }
+      },
+      "ailments": {
+        "poison": 3,
+        "stun": 2,
+        "paralysis": 3,
+        "sleep": 3,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Pelt",
+        "Afflicted Hide+"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Great Baggi",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 19,
+      "weaknesses": {
+        "Head": {
+          "fire": 40,
+          "water": 20,
+          "thunder": 20,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Body": {
+          "fire": 40,
+          "water": 20,
+          "thunder": 20,
+          "ice": 0,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 3,
+        "sleep": 0,
+        "blast": 3
+      },
+      "afflictedMaterials": [
+        "Afflicted Pelt",
+        "Afflicted Hide+"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kulu-Ya-Ku",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 19,
+      "weaknesses": {
+        "Head": {
+          "fire": 15,
+          "water": 20,
+          "thunder": 15,
+          "ice": 15,
+          "dragon": 15
+        },
+        "Torso": {
+          "fire": 15,
+          "water": 20,
+          "thunder": 15,
+          "ice": 15,
+          "dragon": 15
+        },
+        "Foreleg": {
+          "fire": 15,
+          "water": 20,
+          "thunder": 15,
+          "ice": 15,
+          "dragon": 15
+        },
+        "Tail": {
+          "fire": 15,
+          "water": 20,
+          "thunder": 15,
+          "ice": 15,
+          "dragon": 15
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 2,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Pelt",
+        "Afflicted Hide+"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Great Wroggi",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 11,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 5,
+          "ice": 40,
+          "dragon": 0
+        },
+        "Body": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 5,
+          "ice": 40,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 1,
+        "paralysis": 3,
+        "sleep": 3,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Pelt",
+        "Afflicted Hide+"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Arzuros",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 10,
+      "weaknesses": {
+        "Head": {
+          "fire": 20,
+          "water": 5,
+          "thunder": 10,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Upper Half": {
+          "fire": 25,
+          "water": 5,
+          "thunder": 10,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 30,
+          "water": 5,
+          "thunder": 30,
+          "ice": 20,
+          "dragon": 0
+        },
+        "Abdomen/Hind Leg": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 10,
+          "ice": 20,
+          "dragon": 0
+        },
+        "Rear": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 10,
+          "ice": 20,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 3,
+        "stun": 2,
+        "paralysis": 3,
+        "sleep": 3,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Bone",
+        "Afflicted Hardbone"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Lagombi",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 13,
+      "weaknesses": {
+        "Head": {
+          "fire": 30,
+          "water": 0,
+          "thunder": 20,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Upper Half": {
+          "fire": 30,
+          "water": 0,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Abdomen/Hind Leg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Rear": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 3,
+        "stun": 2,
+        "paralysis": 3,
+        "sleep": 1,
+        "blast": 3
+      },
+      "afflictedMaterials": [
+        "Afflicted Bone",
+        "Afflicted Hardbone"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Volvidon",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 16,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 30,
+          "thunder": 15,
+          "ice": 20,
+          "dragon": 0
+        },
+        "Upper Half": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 10,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Abdomen/Hind Leg": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Back": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 10,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Rear": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 10,
+          "ice": 10,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 2,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Bone",
+        "Afflicted Hardbone"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Aknosom",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 17,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Crest": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 20,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Neck": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Torso": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 20,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Leg": {
+          "fire": 0,
+          "water": 35,
+          "thunder": 30,
+          "ice": 25,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Tail Tip": {
+          "fire": 0,
+          "water": 30,
+          "thunder": 20,
+          "ice": 5,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Bone",
+        "Afflicted Hardbone"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Royal Ludroth",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 11,
+      "weaknesses": {
+        "Head": {
+          "fire": 30,
+          "water": 0,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Mane": {
+          "fire": 30,
+          "water": 0,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 10,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Abdomen": {
+          "fire": 30,
+          "water": 0,
+          "thunder": 10,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Back": {
+          "fire": 30,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Hind Leg": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 25,
+          "water": 0,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Bone",
+        "Afflicted Hardbone"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Barroth",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 10,
+      "weaknesses": {
+        "Head": {
+          "fire": 40,
+          "water": 0,
+          "thunder": 0,
+          "ice": 20,
+          "dragon": 10
+        },
+        "Torso": {
+          "fire": 25,
+          "water": 0,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Foreleg": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Hind Leg": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 25,
+          "water": 0,
+          "thunder": 0,
+          "ice": 20,
+          "dragon": 10
+        }
+      },
+      "ailments": {
+        "poison": 3,
+        "stun": 0,
+        "paralysis": 3,
+        "sleep": 1,
+        "blast": 3
+      },
+      "afflictedMaterials": [
+        "Afflicted Bone",
+        "Afflicted Hardbone"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Daimyo Hermitaur",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 10,
+      "weaknesses": {
+        "Head": {
+          "fire": 30,
+          "water": 10,
+          "thunder": 35,
+          "ice": 20,
+          "dragon": 0
+        },
+        "Torso": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 20,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Shell": {
+          "fire": 20,
+          "water": 5,
+          "thunder": 25,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Right Claw": {
+          "fire": 35,
+          "water": 5,
+          "thunder": 20,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Right Leg": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Left Claw": {
+          "fire": 35,
+          "water": 5,
+          "thunder": 20,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Left Leg": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Arm": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 3,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Blood",
+        "Afflicted Dragon Blood"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Khezu",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 15,
+      "weaknesses": {
+        "Head": {
+          "fire": 30,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Neck": {
+          "fire": 25,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Torso": {
+          "fire": 25,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Wing": {
+          "fire": 20,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Left Leg": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Right Leg": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 20,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 3,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Blood",
+        "Afflicted Dragon Blood"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Tetranadon",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 17,
+      "weaknesses": {
+        "Head": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 25,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Neck": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 20,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Torso": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 20,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 25,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Back": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 3,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Blood",
+        "Afflicted Dragon Blood"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Bishaten",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 16,
+      "weaknesses": {
+        "Head": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 10,
+          "ice": 25,
+          "dragon": 0
+        },
+        "Torso": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Wing": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 20,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Blood",
+        "Afflicted Dragon Blood"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Blood Orange Bishaten",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 11,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 25,
+          "thunder": 20,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Torso": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Shell",
+        "Afflicted Carapace"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Pukei-Pukei",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 10,
+      "weaknesses": {
+        "Head": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 30,
+          "ice": 20,
+          "dragon": 10
+        },
+        "Tongue": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 30,
+          "ice": 20,
+          "dragon": 10
+        },
+        "Neck": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 20,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Torso": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Wing": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 25,
+          "ice": 15,
+          "dragon": 5
+        },
+        "Leg": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 25,
+          "ice": 15,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 1,
+        "paralysis": 3,
+        "sleep": 3,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Scale",
+        "Afflicted Scale+"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Jyuratodus",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 10,
+      "weaknesses": {
+        "Head": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Neck": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Torso": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 25,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Back": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Fin": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 20,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Leg": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 30,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 2,
+        "paralysis": 1,
+        "sleep": 0,
+        "blast": 0
+      },
+      "afflictedMaterials": [
+        "Afflicted Shell",
+        "Afflicted Carapace"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Basarios",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 11,
+      "weaknesses": {
+        "Head": {
+          "fire": 10,
+          "water": 15,
+          "thunder": 10,
+          "ice": 10,
+          "dragon": 18
+        },
+        "Lower Neck": {
+          "fire": 10,
+          "water": 15,
+          "thunder": 10,
+          "ice": 10,
+          "dragon": 18
+        },
+        "Abdomen": {
+          "fire": 10,
+          "water": 10,
+          "thunder": 10,
+          "ice": 10,
+          "dragon": 15
+        },
+        "Back": {
+          "fire": 10,
+          "water": 15,
+          "thunder": 10,
+          "ice": 10,
+          "dragon": 18
+        },
+        "Wing": {
+          "fire": 10,
+          "water": 15,
+          "thunder": 10,
+          "ice": 10,
+          "dragon": 18
+        },
+        "Leg": {
+          "fire": 10,
+          "water": 10,
+          "thunder": 10,
+          "ice": 10,
+          "dragon": 10
+        },
+        "Lower Tail": {
+          "fire": 10,
+          "water": 15,
+          "thunder": 10,
+          "ice": 10,
+          "dragon": 18
+        },
+        "Tail Tip": {
+          "fire": 10,
+          "water": 10,
+          "thunder": 10,
+          "ice": 10,
+          "dragon": 15
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 3,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Monster Bone",
+        "Afflicted Monster Hardnone"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Somnacanth",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 15,
+      "weaknesses": {
+        "Head": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 25,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Head Fin": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Neck": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 25,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Abdomen": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Back": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 25,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 30,
+          "ice": 0,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Shell",
+        "Afflicted Carapace"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Aurora Somnacanth",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 12,
+      "weaknesses": {
+        "Head": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Head Fin": {
+          "fire": 25,
+          "water": 0,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Neck": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Abdomen": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 0,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Back": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Claw",
+        "Afflicted Claw+"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Rathian",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 21,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 20,
+          "ice": 15,
+          "dragon": 30
+        },
+        "Neck": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 15
+        },
+        "Torso": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 20
+        },
+        "Back": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 20
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 25
+        },
+        "Leg": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 15
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 20
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 0
+      },
+      "afflictedMaterials": [
+        "Afflicted Scale",
+        "Afflicted Scale+"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Gold Rathian",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 5,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Neck": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Torso": {
+          "fire": 5,
+          "water": 10,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Back": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Leg": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Tail Tip": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 0,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 0
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 23,
+      "name": "Barioth",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 10,
+      "weaknesses": {
+        "Head": {
+          "fire": 20,
+          "water": 10,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 15
+        },
+        "Neck/Back": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Foreleg": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Thorns": {
+          "fire": 30,
+          "water": 5,
+          "thunder": 25,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Abdomen": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Wing": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Hind Leg": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Tail Tip": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Fang",
+        "Afflicted Fang+"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Tobi-Kadachi",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 22,
+      "weaknesses": {
+        "Head": {
+          "fire": 20,
+          "water": 30,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Neck": {
+          "fire": 10,
+          "water": 20,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Torso": {
+          "fire": 5,
+          "water": 15,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 5,
+          "water": 15,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Back": {
+          "fire": 5,
+          "water": 15,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 20,
+          "water": 30,
+          "thunder": 0,
+          "ice": 20,
+          "dragon": 15
+        },
+        "Tail": {
+          "fire": 15,
+          "water": 20,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 10
+        }
+      },
+      "ailments": {
+        "poison": 3,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Scale",
+        "Afflicted Scale+"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Magnamalo",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 27,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Torso": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Armblade": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Back": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 0,
+          "water": 25,
+          "thunder": 20,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Tailblade": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 0
+      },
+      "afflictedMaterials": [
+        "Afflicted Fang",
+        "Afflicted Fang+"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Scorned Magnamalo",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 3,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Upper Half": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Bottom Half": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 0,
+          "water": 25,
+          "thunder": 20,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Armblade": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 2,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 0
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 27,
+      "name": "Anjanath",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 19,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 25,
+          "thunder": 10,
+          "ice": 15,
+          "dragon": 5
+        },
+        "Snout": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 10,
+          "ice": 15,
+          "dragon": 10
+        },
+        "Neck": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 5,
+          "ice": 15,
+          "dragon": 5
+        },
+        "Torso": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 25,
+          "thunder": 15,
+          "ice": 20,
+          "dragon": 10
+        },
+        "Leg": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 10,
+          "ice": 15,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 0
+      },
+      "afflictedMaterials": [
+        "Afflicted Scale",
+        "Afflicted Scale+"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Nargacuga",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 15,
+      "weaknesses": {
+        "Head": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 25,
+          "ice": 10,
+          "dragon": 10
+        },
+        "Neck/Back": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Foreleg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 20,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Cutwing": {
+          "fire": 25,
+          "water": 5,
+          "thunder": 35,
+          "ice": 10,
+          "dragon": 15
+        },
+        "Abdomen": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 20,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Hind Leg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 25,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Tail Tip": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 20,
+          "ice": 5,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Fang",
+        "Afflicted Fang+"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Lucent Nargacuga",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 5,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 20,
+          "dragon": 10
+        },
+        "Neck/Back": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 10
+        },
+        "Foreleg": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 20,
+          "dragon": 10
+        },
+        "Cutwing": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 0,
+          "ice": 30,
+          "dragon": 15
+        },
+        "Abdomen": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 0,
+          "ice": 20,
+          "dragon": 15
+        },
+        "Hind Leg": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 10
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Tail Tip": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 30,
+      "name": "Mizutsune",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 18,
+      "weaknesses": {
+        "Head": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 8
+        },
+        "Neck": {
+          "fire": 8,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 8
+        },
+        "Torso": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Foreleg": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 25,
+          "ice": 15,
+          "dragon": 30
+        },
+        "Left Claw": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 30,
+          "ice": 15,
+          "dragon": 30
+        },
+        "Right Claw": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 30,
+          "ice": 15,
+          "dragon": 30
+        },
+        "Dorsal Fin": {
+          "fire": 8,
+          "water": 0,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Hind Leg": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Dire Scale"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Violet Mizutsune",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 3,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 8,
+          "ice": 10,
+          "dragon": 3
+        },
+        "Neck": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 8,
+          "ice": 10,
+          "dragon": 3
+        },
+        "Torso": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 8,
+          "ice": 10,
+          "dragon": 3
+        },
+        "Foreleg": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 25,
+          "ice": 30,
+          "dragon": 35
+        },
+        "Left Claw": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 28,
+          "ice": 30,
+          "dragon": 5
+        },
+        "Right Claw": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 28,
+          "ice": 30,
+          "dragon": 5
+        },
+        "Dorsal Fin": {
+          "fire": 0,
+          "water": 8,
+          "thunder": 10,
+          "ice": 20,
+          "dragon": 5
+        },
+        "Hind Leg": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 8,
+          "ice": 15,
+          "dragon": 3
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 8,
+          "thunder": 10,
+          "ice": 15,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 32,
+      "name": "Goss Harag",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 18,
+      "weaknesses": {
+        "Head": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Torso": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 30,
+          "water": 0,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Ice Clump": {
+          "fire": 30,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Back": {
+          "fire": 25,
+          "water": 0,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 30,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Claw",
+        "Afflicted Claw+"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Garangolm",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 12,
+      "weaknesses": {
+        "Head": {
+          "fire": 8,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Torso": {
+          "fire": 8,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Left Arm": {
+          "fire": 8,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Right Arm": {
+          "fire": 8,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 8,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 8,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Fang",
+        "Afflicted Fang+"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Shogun Ceanataur",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 15,
+      "weaknesses": {
+        "Head": {
+          "fire": 10,
+          "water": 10,
+          "thunder": 35,
+          "ice": 20,
+          "dragon": 0
+        },
+        "Torso": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 20,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Shell": {
+          "fire": 20,
+          "water": 5,
+          "thunder": 25,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Right Claw": {
+          "fire": 35,
+          "water": 5,
+          "thunder": 20,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Right Leg": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Left Claw": {
+          "fire": 35,
+          "water": 5,
+          "thunder": 20,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Left Leg": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Arm": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Shell",
+        "Afflicted Carapace"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Rathalos",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 20,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 20,
+          "ice": 15,
+          "dragon": 30
+        },
+        "Neck": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 20
+        },
+        "Abdomen": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 20
+        },
+        "Back": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 20
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 25
+        },
+        "Leg": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 15
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 20
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 0
+      },
+      "afflictedMaterials": [
+        "Afflicted Dire Scale"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Silver Rathalos",
+      "huntedMini": false,
+      "huntedGold": true,
+      "countHunted": 3,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Neck": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Abdomen": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Back": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 25,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Leg": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Tail Tip": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 0,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 0
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 37,
+      "name": "Almudron",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 15,
+      "weaknesses": {
+        "Head": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 10,
+          "ice": 20,
+          "dragon": 5
+        },
+        "Foreleg": {
+          "fire": 30,
+          "water": 0,
+          "thunder": 5,
+          "ice": 25,
+          "dragon": 5
+        },
+        "Abdomen": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 5,
+          "ice": 15,
+          "dragon": 5
+        },
+        "Back": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Hind Leg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 25,
+          "water": 0,
+          "thunder": 10,
+          "ice": 20,
+          "dragon": 5
+        },
+        "Tail Tip": {
+          "fire": 25,
+          "water": 0,
+          "thunder": 15,
+          "ice": 20,
+          "dragon": 15
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 0
+      },
+      "afflictedMaterials": [
+        "Afflicted Claw",
+        "Afflicted Claw+"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Magma Almudron",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 8,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 10,
+          "ice": 20,
+          "dragon": 5
+        },
+        "Foreleg": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Abdomen": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 5,
+          "ice": 15,
+          "dragon": 5
+        },
+        "Back": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Hind Leg": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 25,
+          "thunder": 10,
+          "ice": 20,
+          "dragon": 5
+        },
+        "Tail Tip": {
+          "fire": 0,
+          "water": 25,
+          "thunder": 15,
+          "ice": 20,
+          "dragon": 15
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 0
+      },
+      "afflictedMaterials": [
+        "Afflicted Dire Bone"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Zinogre",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 18,
+      "weaknesses": {
+        "Head": {
+          "fire": 10,
+          "water": 10,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 5
+        },
+        "Torso": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Hip": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Foreleg": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Back": {
+          "fire": 10,
+          "water": 20,
+          "thunder": 0,
+          "ice": 25,
+          "dragon": 5
+        },
+        "Hind Leg": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Tail Tip": {
+          "fire": 10,
+          "water": 15,
+          "thunder": 0,
+          "ice": 20,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Dire Horn",
+        "Afflicted Dire Horn+"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Lunagaron",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 18,
+      "weaknesses": {
+        "Head": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Torso": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Abdomen": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Back": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Foreleg": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Hind Leg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Dire Bone"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Astalos",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 10,
+      "weaknesses": {
+        "Crest": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Abdomen": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Neck": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Back": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Wing": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Leg": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 5,
+          "water": 10,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 5
+        },
+        "Tail Tip": {
+          "fire": 5,
+          "water": 10,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Dire Scale"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Espinas",
+      "huntedMini": false,
+      "huntedGold": true,
+      "countHunted": 10,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 15,
+          "dragon": 10
+        },
+        "Abdomen": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 15,
+          "dragon": 10
+        },
+        "Back": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Leg": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 15,
+          "dragon": 10
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Dire Shell"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Flaming Espinas",
+      "huntedMini": false,
+      "huntedGold": true,
+      "countHunted": 5,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Abdomen": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Back": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Leg": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 44,
+      "name": "Gore Magala",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 11,
+      "weaknesses": {
+        "Head": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Neck": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Torso": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Wingarm": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Foreleg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Hind Leg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Wing": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Antenna": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 25
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Dire Shell"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Chaotic Gore Magala",
+      "huntedMini": true,
+      "huntedGold": false,
+      "countHunted": 4,
+      "weaknesses": {
+        "Head": {
+          "fire": 18,
+          "water": 0,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 20
+        },
+        "Neck": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Torso": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Left Wingarm": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Right Wingarm": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 0,
+          "ice": 0,
+          "dragon": 30
+        },
+        "Foreleg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Hind Leg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Wing": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Antenna": {
+          "fire": 18,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 20
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 46,
+      "name": "Seregios",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 13,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 20,
+          "ice": 15,
+          "dragon": 5
+        },
+        "Neck": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Abdomen": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Back": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Wingarm": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 25,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 20,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Leg": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 20,
+          "ice": 15,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Dire Horn",
+        "Afflicted Dire Horn+"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Tigrex",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 20,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 25,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Foreleg": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 20,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Abdomen": {
+          "fire": 10,
+          "water": 10,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Back": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Hind Leg": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Tail Base": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Dire Bone"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Diablos",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 16,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 10,
+          "ice": 25,
+          "dragon": 15
+        },
+        "Horn": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 10,
+          "ice": 25,
+          "dragon": 20
+        },
+        "Neck": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 5,
+          "ice": 20,
+          "dragon": 15
+        },
+        "Abdomen": {
+          "fire": 0,
+          "water": 25,
+          "thunder": 10,
+          "ice": 30,
+          "dragon": 25
+        },
+        "Back": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 10,
+          "ice": 25,
+          "dragon": 20
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 25,
+          "thunder": 10,
+          "ice": 30,
+          "dragon": 25
+        },
+        "Leg": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 15,
+          "dragon": 10
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 10,
+          "ice": 15,
+          "dragon": 20
+        },
+        "Tail Tip": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 10,
+          "ice": 25,
+          "dragon": 20
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 0,
+        "paralysis": 3,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Dire Horn",
+        "Afflicted Dire Horn+"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Rakna-Kadaki",
+      "huntedMini": false,
+      "huntedGold": true,
+      "countHunted": 13,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 0,
+          "ice": 20,
+          "dragon": 0
+        },
+        "Chest": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Claw": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 0,
+          "ice": 30,
+          "dragon": 0
+        },
+        "Abdomen": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Leg (Thread)": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 0
+      },
+      "afflictedMaterials": [
+        "Afflicted Claw",
+        "Afflicted Claw+"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Pyre Rakna-Kadaki",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 8,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 25,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Chest": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Claw": {
+          "fire": 0,
+          "water": 30,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Abdomen": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Leg (Thread)": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 2,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 0
+      },
+      "afflictedMaterials": [
+        "Afflicted Dire Claw"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Kushala Daora",
+      "huntedMini": false,
+      "huntedGold": true,
+      "countHunted": 15,
+      "weaknesses": {
+        "Head": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Neck": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Foreleg": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 20,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Abdomen": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Back": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Wing": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 20,
+          "ice": 0,
+          "dragon": 15
+        },
+        "Hind Leg": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 20,
+          "ice": 0,
+          "dragon": 15
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 3
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 52,
+      "name": "Risen Kushala Daora",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 1,
+      "weaknesses": {
+        "Head": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Neck": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Foreleg": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 20,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Abdomen": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Back": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Wing": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 20,
+          "ice": 0,
+          "dragon": 15
+        },
+        "Hind Leg": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 20,
+          "ice": 0,
+          "dragon": 15
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 3
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 53,
+      "name": "Chameleos",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 9,
+      "weaknesses": {
+        "Head": {
+          "fire": 25,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 20
+        },
+        "Foreleg": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Abdomen": {
+          "fire": 20,
+          "water": 5,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 15
+        },
+        "Back": {
+          "fire": 25,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 20
+        },
+        "Wing": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 15
+        },
+        "Hind Leg": {
+          "fire": 25,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 20
+        },
+        "Tail": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 54,
+      "name": "Risen Chameleos",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 1,
+      "weaknesses": {
+        "Head": {
+          "fire": 25,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 20
+        },
+        "Foreleg": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Abdomen": {
+          "fire": 20,
+          "water": 5,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 15
+        },
+        "Back": {
+          "fire": 25,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 20
+        },
+        "Wing": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 15
+        },
+        "Hind Leg": {
+          "fire": 25,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 20
+        },
+        "Tail": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 0,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 55,
+      "name": "Teostra",
+      "huntedMini": true,
+      "huntedGold": false,
+      "countHunted": 12,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 10,
+          "ice": 15,
+          "dragon": 10
+        },
+        "Neck": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Foreleg": {
+          "fire": 0,
+          "water": 25,
+          "thunder": 10,
+          "ice": 20,
+          "dragon": 10
+        },
+        "Abdomen": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Back": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 5,
+          "ice": 15,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 56,
+      "name": "Risen Teostra",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 1,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 10,
+          "ice": 15,
+          "dragon": 10
+        },
+        "Neck": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Foreleg": {
+          "fire": 0,
+          "water": 25,
+          "thunder": 10,
+          "ice": 20,
+          "dragon": 10
+        },
+        "Abdomen": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Back": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 20,
+          "thunder": 5,
+          "ice": 15,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 57,
+      "name": "Malzeno",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 12,
+      "weaknesses": {
+        "Head": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 25
+        },
+        "Torso": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Foreleg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 20
+        },
+        "Hind Leg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Wing": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Tail": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Tail Tip": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 15
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 58,
+      "name": "Primordial Malzeno",
+      "huntedMini": false,
+      "huntedGold": true,
+      "countHunted": 1,
+      "weaknesses": {
+        "Head": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 25
+        },
+        "Torso": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Foreleg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 20
+        },
+        "Hind Leg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Wing": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Tail": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Tail Tip": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 15
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 0,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 59,
+      "name": "Shagaru Magala",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 3,
+      "weaknesses": {
+        "Head": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 25
+        },
+        "Neck": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 20
+        },
+        "Torso": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Wingarm": {
+          "fire": 25,
+          "water": 0,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 30
+        },
+        "Foreleg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Hind Leg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Wing": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Tail": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 15
+        }
+      },
+      "ailments": {
+        "poison": 3,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 0
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 60,
+      "name": "Risen Shagaru Magala",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 0,
+      "weaknesses": {
+        "Head": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 25
+        },
+        "Neck": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 20
+        },
+        "Torso": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Wingarm": {
+          "fire": 25,
+          "water": 0,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 30
+        },
+        "Foreleg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Hind Leg": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Wing": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Tail": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 15
+        }
+      },
+      "ailments": {
+        "poison": 3,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 0
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 61,
+      "name": "Velkhana",
+      "huntedMini": false,
+      "huntedGold": true,
+      "countHunted": 6,
+      "weaknesses": {
+        "Head": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 20
+        },
+        "Neck": {
+          "fire": 25,
+          "water": 5,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 15
+        },
+        "Torso": {
+          "fire": 30,
+          "water": 10,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Foreleg": {
+          "fire": 30,
+          "water": 10,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Hind Leg": {
+          "fire": 30,
+          "water": 10,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Wing": {
+          "fire": 25,
+          "water": 5,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 15
+        },
+        "Tail": {
+          "fire": 25,
+          "water": 5,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 15
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 0,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 3
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 62,
+      "name": "Rajang",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 19,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 30,
+          "dragon": 0
+        },
+        "Torso": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 0,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": [
+        "Afflicted Dire Claw"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Furious Rajang",
+      "huntedMini": false,
+      "huntedGold": true,
+      "countHunted": 3,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 30,
+          "dragon": 0
+        },
+        "Torso": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 0,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 64,
+      "name": "Bazelgeuse",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 13,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 10
+        },
+        "Abdomen": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 10,
+          "dragon": 10
+        },
+        "Back": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 10,
+          "dragon": 10
+        },
+        "Leg": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 10
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 10
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 0,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 0
+      },
+      "afflictedMaterials": [
+        "Afflicted Dire Shell"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Seething Bazelgeuse",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 3,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 20,
+          "ice": 25,
+          "dragon": 15
+        },
+        "Abdomen": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 15,
+          "dragon": 5
+        },
+        "Back": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 15,
+          "dragon": 5
+        },
+        "Leg": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 15,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 15,
+          "ice": 25,
+          "dragon": 10
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 3,
+        "blast": 0
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 66,
+      "name": "Wind Serpent Ibushi",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 6,
+      "weaknesses": {
+        "Head": {
+          "fire": 10,
+          "water": 10,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 25
+        },
+        "Neck": {
+          "fire": 15,
+          "water": 5,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 20
+        },
+        "Torso": {
+          "fire": 10,
+          "water": 5,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Chest (Windsac)": {
+          "fire": 15,
+          "water": 15,
+          "thunder": 5,
+          "ice": 15,
+          "dragon": 25
+        },
+        "Wingarm": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Wingarm (Windsac)": {
+          "fire": 25,
+          "water": 10,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 25
+        },
+        "Back (Windsac)": {
+          "fire": 20,
+          "water": 10,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 25
+        },
+        "Leg Fin": {
+          "fire": 10,
+          "water": 5,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Tail": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Tail Tip (Windsac)": {
+          "fire": 25,
+          "water": 15,
+          "thunder": 5,
+          "ice": 15,
+          "dragon": 35
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 1,
+        "sleep": 1,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 67,
+      "name": "Thunder Serpent Narwa",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 3,
+      "weaknesses": {
+        "Head": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 20
+        },
+        "Neck": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Torso": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 0,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Chest (Charged)": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 15
+        },
+        "Wingarm": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Wingarm (Charged)": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 20
+        },
+        "Abdomen (Thundersac)": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 20,
+          "dragon": 25
+        },
+        "Back (Charged)": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 15
+        },
+        "Leg Fin": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 0,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Tail Tip (Charged)": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 15
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 0,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 68,
+      "name": "Narwa the Allmother",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 4,
+      "weaknesses": {
+        "Head": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 15
+        },
+        "Neck": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Torso": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 0,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Chest (Charged)": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 15
+        },
+        "Wingarm": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Wingarm (Charged)": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 20
+        },
+        "Abdomen (Thundersac)": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 20,
+          "dragon": 25
+        },
+        "Back (Charged)": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 15
+        },
+        "Leg Fin": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 0,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Tail Tip (Charged)": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 15
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 0,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 69,
+      "name": "Crimson Glow Valstrax",
+      "huntedMini": false,
+      "huntedGold": true,
+      "countHunted": 8,
+      "weaknesses": {
+        "Head": {
+          "fire": 25,
+          "water": 25,
+          "thunder": 25,
+          "ice": 25,
+          "dragon": 0
+        },
+        "Neck": {
+          "fire": 25,
+          "water": 25,
+          "thunder": 25,
+          "ice": 25,
+          "dragon": 0
+        },
+        "Torso": {
+          "fire": 20,
+          "water": 20,
+          "thunder": 20,
+          "ice": 20,
+          "dragon": 0
+        },
+        "Chest": {
+          "fire": 20,
+          "water": 20,
+          "thunder": 20,
+          "ice": 20,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 25,
+          "water": 25,
+          "thunder": 25,
+          "ice": 25,
+          "dragon": 0
+        },
+        "Wing": {
+          "fire": 25,
+          "water": 25,
+          "thunder": 25,
+          "ice": 25,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 15,
+          "water": 15,
+          "thunder": 15,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Wingarm": {
+          "fire": 15,
+          "water": 15,
+          "thunder": 15,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 20,
+          "water": 20,
+          "thunder": 20,
+          "ice": 20,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 0,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 70,
+      "name": "Risen Crimson Glow Valstrax",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 1,
+      "weaknesses": {
+        "Head": {
+          "fire": 25,
+          "water": 25,
+          "thunder": 25,
+          "ice": 25,
+          "dragon": 0
+        },
+        "Neck": {
+          "fire": 25,
+          "water": 25,
+          "thunder": 25,
+          "ice": 25,
+          "dragon": 0
+        },
+        "Torso": {
+          "fire": 20,
+          "water": 20,
+          "thunder": 20,
+          "ice": 20,
+          "dragon": 0
+        },
+        "Chest": {
+          "fire": 20,
+          "water": 20,
+          "thunder": 20,
+          "ice": 20,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 25,
+          "water": 25,
+          "thunder": 25,
+          "ice": 25,
+          "dragon": 0
+        },
+        "Wing": {
+          "fire": 25,
+          "water": 25,
+          "thunder": 25,
+          "ice": 25,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 15,
+          "water": 15,
+          "thunder": 15,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Wingarm": {
+          "fire": 15,
+          "water": 15,
+          "thunder": 15,
+          "ice": 15,
+          "dragon": 0
+        },
+        "Tail": {
+          "fire": 20,
+          "water": 20,
+          "thunder": 20,
+          "ice": 20,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 0,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 71,
+      "name": "Gaismagorm",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 1,
+      "weaknesses": {
+        "Head": {
+          "fire": 10,
+          "water": 0,
+          "thunder": 20,
+          "ice": 0,
+          "dragon": 30
+        },
+        "Neck": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 25
+        },
+        "Back": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 5,
+          "ice": 0,
+          "dragon": 10
+        },
+        "Abdomen": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 25
+        },
+        "Wingarm": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 25
+        },
+        "Foreleg": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 20
+        },
+        "Hind Leg": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 15
+        },
+        "Tail": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 10,
+          "ice": 0,
+          "dragon": 15
+        },
+        "Tail Tip": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 15,
+          "ice": 0,
+          "dragon": 25
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 0,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 72,
+      "name": "Amatsu",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 2,
+      "weaknesses": {
+        "Head": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 10,
+          "ice": 15,
+          "dragon": 25
+        },
+        "Neck": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 0,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Torso": {
+          "fire": 0,
+          "water": 0,
+          "thunder": 0,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Back": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 0,
+          "ice": 0,
+          "dragon": 5
+        },
+        "Foreleg": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 15
+        },
+        "Hind Leg": {
+          "fire": 25,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 20
+        },
+        "Tail": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 10
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 0,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 73,
+      "name": "Apex Arzuros",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 5,
+      "weaknesses": {
+        "Head": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 5,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Upper Half": {
+          "fire": 15,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 0
+        },
+        "Foreleg": {
+          "fire": 20,
+          "water": 0,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 0
+        },
+        "Abdomen": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 5,
+          "ice": 16,
+          "dragon": 0
+        },
+        "Hind Leg": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 5,
+          "ice": 16,
+          "dragon": 0
+        },
+        "Rear": {
+          "fire": 12,
+          "water": 0,
+          "thunder": 5,
+          "ice": 20,
+          "dragon": 0
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 74,
+      "name": "Apex Rathian",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 2,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 10,
+          "ice": 10,
+          "dragon": 20
+        },
+        "Neck": {
+          "fire": 5,
+          "water": 10,
+          "thunder": 10,
+          "ice": 10,
+          "dragon": 20
+        },
+        "Torso": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Back": {
+          "fire": 5,
+          "water": 10,
+          "thunder": 20,
+          "ice": 10,
+          "dragon": 25
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 20,
+          "ice": 10,
+          "dragon": 25
+        },
+        "Leg": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Tail": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 15
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 0
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 75,
+      "name": "Apex Mizutsune",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 3,
+      "weaknesses": {
+        "Head": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 8
+        },
+        "Neck": {
+          "fire": 8,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 8
+        },
+        "Torso": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Foreleg": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 25,
+          "ice": 15,
+          "dragon": 30
+        },
+        "Left Claw": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 30,
+          "ice": 15,
+          "dragon": 30
+        },
+        "Right Claw": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 30,
+          "ice": 15,
+          "dragon": 30
+        },
+        "Dorsal Fin": {
+          "fire": 8,
+          "water": 0,
+          "thunder": 15,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Hind Leg": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 5,
+          "water": 0,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 76,
+      "name": "Apex Rathalos",
+      "huntedMini": false,
+      "huntedGold": false,
+      "countHunted": 3,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 20
+        },
+        "Neck": {
+          "fire": 5,
+          "water": 10,
+          "thunder": 15,
+          "ice": 10,
+          "dragon": 15
+        },
+        "Abdomen": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 8,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Back": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 8,
+          "ice": 5,
+          "dragon": 10
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 20,
+          "ice": 10,
+          "dragon": 25
+        },
+        "Leg": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 15
+        },
+        "Tail": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 10,
+          "ice": 5,
+          "dragon": 15
+        }
+      },
+      "ailments": {
+        "poison": 0,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 0
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 77,
+      "name": "Apex Diablos",
+      "huntedMini": true,
+      "huntedGold": true,
+      "countHunted": 4,
+      "weaknesses": {
+        "Head": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 10,
+          "ice": 25,
+          "dragon": 15
+        },
+        "Horn": {
+          "fire": 0,
+          "water": 15,
+          "thunder": 10,
+          "ice": 25,
+          "dragon": 15
+        },
+        "Neck": {
+          "fire": 0,
+          "water": 8,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Abdomen": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 10
+        },
+        "Back": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Wing": {
+          "fire": 0,
+          "water": 5,
+          "thunder": 5,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Leg": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 5,
+          "ice": 15,
+          "dragon": 10
+        },
+        "Tail": {
+          "fire": 0,
+          "water": 10,
+          "thunder": 10,
+          "ice": 15,
+          "dragon": 10
+        },
+        "Tail Tip": {
+          "fire": 0,
+          "water": 25,
+          "thunder": 10,
+          "ice": 30,
+          "dragon": 20
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    },
+    {
+      "id": 78,
+      "name": "Apex Zinogre",
+      "huntedMini": false,
+      "huntedGold": true,
+      "countHunted": 3,
+      "weaknesses": {
+        "Head": {
+          "fire": 10,
+          "water": 10,
+          "thunder": 0,
+          "ice": 15,
+          "dragon": 5
+        },
+        "Torso": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Hip": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Foreleg": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Back": {
+          "fire": 10,
+          "water": 20,
+          "thunder": 0,
+          "ice": 25,
+          "dragon": 5
+        },
+        "Hind Leg": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 10,
+          "dragon": 5
+        },
+        "Tail": {
+          "fire": 5,
+          "water": 5,
+          "thunder": 0,
+          "ice": 5,
+          "dragon": 5
+        },
+        "Tail Tip": {
+          "fire": 10,
+          "water": 15,
+          "thunder": 0,
+          "ice": 20,
+          "dragon": 5
+        }
+      },
+      "ailments": {
+        "poison": 1,
+        "stun": 1,
+        "paralysis": 0,
+        "sleep": 0,
+        "blast": 2
+      },
+      "afflictedMaterials": []
+    }
+  ]
+}
