@@ -1,7 +1,7 @@
 {
   "monster": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Great Izuchi",
       "huntedMini": true,
       "huntedGold": true,
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Great Baggi",
       "huntedMini": true,
       "huntedGold": true,
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Kulu-Ya-Ku",
       "huntedMini": true,
       "huntedGold": true,
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Great Wroggi",
       "huntedMini": true,
       "huntedGold": true,
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Arzuros",
       "huntedMini": true,
       "huntedGold": true,
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": "6",
       "name": "Lagombi",
       "huntedMini": true,
       "huntedGold": true,
@@ -282,7 +282,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": "7",
       "name": "Volvidon",
       "huntedMini": true,
       "huntedGold": true,
@@ -344,7 +344,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": "8",
       "name": "Aknosom",
       "huntedMini": true,
       "huntedGold": true,
@@ -420,7 +420,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": "9",
       "name": "Royal Ludroth",
       "huntedMini": true,
       "huntedGold": true,
@@ -489,7 +489,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": "10",
       "name": "Barroth",
       "huntedMini": true,
       "huntedGold": true,
@@ -544,7 +544,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": "11",
       "name": "Daimyo Hermitaur",
       "huntedMini": true,
       "huntedGold": true,
@@ -620,7 +620,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": "12",
       "name": "Khezu",
       "huntedMini": true,
       "huntedGold": true,
@@ -689,7 +689,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": "13",
       "name": "Tetranadon",
       "huntedMini": true,
       "huntedGold": true,
@@ -758,7 +758,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": "14",
       "name": "Bishaten",
       "huntedMini": true,
       "huntedGold": true,
@@ -820,7 +820,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": "15",
       "name": "Blood Orange Bishaten",
       "huntedMini": true,
       "huntedGold": true,
@@ -882,7 +882,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": "16",
       "name": "Pukei-Pukei",
       "huntedMini": true,
       "huntedGold": true,
@@ -951,7 +951,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": "17",
       "name": "Jyuratodus",
       "huntedMini": true,
       "huntedGold": true,
@@ -1020,7 +1020,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": "18",
       "name": "Basarios",
       "huntedMini": true,
       "huntedGold": true,
@@ -1096,7 +1096,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": "19",
       "name": "Somnacanth",
       "huntedMini": true,
       "huntedGold": true,
@@ -1172,7 +1172,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": "20",
       "name": "Aurora Somnacanth",
       "huntedMini": true,
       "huntedGold": true,
@@ -1248,7 +1248,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": "21",
       "name": "Rathian",
       "huntedMini": true,
       "huntedGold": true,
@@ -1317,11 +1317,11 @@
       ]
     },
     {
-      "id": 22,
+      "id": "22",
       "name": "Gold Rathian",
       "huntedMini": false,
       "huntedGold": false,
-      "countHunted": 5,
+      "countHunted": 6,
       "weaknesses": {
         "Head": {
           "fire": 0,
@@ -1390,7 +1390,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 23,
+      "id": "23",
       "name": "Barioth",
       "huntedMini": true,
       "huntedGold": true,
@@ -1473,7 +1473,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": "24",
       "name": "Tobi-Kadachi",
       "huntedMini": true,
       "huntedGold": true,
@@ -1542,7 +1542,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": "25",
       "name": "Magnamalo",
       "huntedMini": true,
       "huntedGold": true,
@@ -1618,11 +1618,11 @@
       ]
     },
     {
-      "id": 26,
+      "id": "26",
       "name": "Scorned Magnamalo",
       "huntedMini": false,
       "huntedGold": false,
-      "countHunted": 3,
+      "countHunted": 4,
       "weaknesses": {
         "Head": {
           "fire": 0,
@@ -1684,7 +1684,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 27,
+      "id": "27",
       "name": "Anjanath",
       "huntedMini": true,
       "huntedGold": true,
@@ -1753,7 +1753,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": "28",
       "name": "Nargacuga",
       "huntedMini": true,
       "huntedGold": true,
@@ -1829,7 +1829,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": "29",
       "name": "Lucent Nargacuga",
       "huntedMini": false,
       "huntedGold": false,
@@ -1902,7 +1902,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 30,
+      "id": "30",
       "name": "Mizutsune",
       "huntedMini": true,
       "huntedGold": true,
@@ -1984,7 +1984,7 @@
       ]
     },
     {
-      "id": 31,
+      "id": "31",
       "name": "Violet Mizutsune",
       "huntedMini": false,
       "huntedGold": false,
@@ -2064,7 +2064,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 32,
+      "id": "32",
       "name": "Goss Harag",
       "huntedMini": true,
       "huntedGold": true,
@@ -2126,7 +2126,7 @@
       ]
     },
     {
-      "id": 33,
+      "id": "33",
       "name": "Garangolm",
       "huntedMini": true,
       "huntedGold": true,
@@ -2188,7 +2188,7 @@
       ]
     },
     {
-      "id": 34,
+      "id": "34",
       "name": "Shogun Ceanataur",
       "huntedMini": true,
       "huntedGold": true,
@@ -2264,7 +2264,7 @@
       ]
     },
     {
-      "id": 35,
+      "id": "35",
       "name": "Rathalos",
       "huntedMini": true,
       "huntedGold": true,
@@ -2332,7 +2332,7 @@
       ]
     },
     {
-      "id": 36,
+      "id": "36",
       "name": "Silver Rathalos",
       "huntedMini": false,
       "huntedGold": true,
@@ -2405,7 +2405,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 37,
+      "id": "37",
       "name": "Almudron",
       "huntedMini": true,
       "huntedGold": true,
@@ -2474,7 +2474,7 @@
       ]
     },
     {
-      "id": 38,
+      "id": "38",
       "name": "Magma Almudron",
       "huntedMini": true,
       "huntedGold": true,
@@ -2542,7 +2542,7 @@
       ]
     },
     {
-      "id": 39,
+      "id": "39",
       "name": "Zinogre",
       "huntedMini": true,
       "huntedGold": true,
@@ -2618,7 +2618,7 @@
       ]
     },
     {
-      "id": 40,
+      "id": "40",
       "name": "Lunagaron",
       "huntedMini": true,
       "huntedGold": true,
@@ -2686,7 +2686,7 @@
       ]
     },
     {
-      "id": 41,
+      "id": "41",
       "name": "Astalos",
       "huntedMini": true,
       "huntedGold": true,
@@ -2761,7 +2761,7 @@
       ]
     },
     {
-      "id": 42,
+      "id": "42",
       "name": "Espinas",
       "huntedMini": false,
       "huntedGold": true,
@@ -2822,7 +2822,7 @@
       ]
     },
     {
-      "id": 43,
+      "id": "43",
       "name": "Flaming Espinas",
       "huntedMini": false,
       "huntedGold": true,
@@ -2881,7 +2881,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 44,
+      "id": "44",
       "name": "Gore Magala",
       "huntedMini": true,
       "huntedGold": true,
@@ -2963,7 +2963,7 @@
       ]
     },
     {
-      "id": 45,
+      "id": "45",
       "name": "Chaotic Gore Magala",
       "huntedMini": true,
       "huntedGold": false,
@@ -3050,7 +3050,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 46,
+      "id": "46",
       "name": "Seregios",
       "huntedMini": false,
       "huntedGold": false,
@@ -3126,7 +3126,7 @@
       ]
     },
     {
-      "id": 47,
+      "id": "47",
       "name": "Tigrex",
       "huntedMini": true,
       "huntedGold": true,
@@ -3194,7 +3194,7 @@
       ]
     },
     {
-      "id": 48,
+      "id": "48",
       "name": "Diablos",
       "huntedMini": true,
       "huntedGold": true,
@@ -3277,7 +3277,7 @@
       ]
     },
     {
-      "id": 49,
+      "id": "49",
       "name": "Rakna-Kadaki",
       "huntedMini": false,
       "huntedGold": true,
@@ -3332,7 +3332,7 @@
       ]
     },
     {
-      "id": 50,
+      "id": "50",
       "name": "Pyre Rakna-Kadaki",
       "huntedMini": false,
       "huntedGold": false,
@@ -3386,7 +3386,7 @@
       ]
     },
     {
-      "id": 51,
+      "id": "51",
       "name": "Kushala Daora",
       "huntedMini": false,
       "huntedGold": true,
@@ -3459,7 +3459,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 52,
+      "id": "52",
       "name": "Risen Kushala Daora",
       "huntedMini": false,
       "huntedGold": false,
@@ -3532,7 +3532,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 53,
+      "id": "53",
       "name": "Chameleos",
       "huntedMini": false,
       "huntedGold": false,
@@ -3598,7 +3598,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 54,
+      "id": "54",
       "name": "Risen Chameleos",
       "huntedMini": false,
       "huntedGold": false,
@@ -3664,7 +3664,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 55,
+      "id": "55",
       "name": "Teostra",
       "huntedMini": true,
       "huntedGold": false,
@@ -3737,7 +3737,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 56,
+      "id": "56",
       "name": "Risen Teostra",
       "huntedMini": false,
       "huntedGold": false,
@@ -3810,7 +3810,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 57,
+      "id": "57",
       "name": "Malzeno",
       "huntedMini": true,
       "huntedGold": true,
@@ -3876,7 +3876,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 58,
+      "id": "58",
       "name": "Primordial Malzeno",
       "huntedMini": false,
       "huntedGold": true,
@@ -3942,7 +3942,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 59,
+      "id": "59",
       "name": "Shagaru Magala",
       "huntedMini": false,
       "huntedGold": false,
@@ -4015,7 +4015,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 60,
+      "id": "60",
       "name": "Risen Shagaru Magala",
       "huntedMini": false,
       "huntedGold": false,
@@ -4088,7 +4088,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 61,
+      "id": "61",
       "name": "Velkhana",
       "huntedMini": false,
       "huntedGold": true,
@@ -4154,7 +4154,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 62,
+      "id": "62",
       "name": "Rajang",
       "huntedMini": true,
       "huntedGold": true,
@@ -4208,7 +4208,7 @@
       ]
     },
     {
-      "id": 63,
+      "id": "63",
       "name": "Furious Rajang",
       "huntedMini": false,
       "huntedGold": true,
@@ -4260,7 +4260,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 64,
+      "id": "64",
       "name": "Bazelgeuse",
       "huntedMini": true,
       "huntedGold": true,
@@ -4321,11 +4321,11 @@
       ]
     },
     {
-      "id": 65,
+      "id": "65",
       "name": "Seething Bazelgeuse",
       "huntedMini": false,
       "huntedGold": false,
-      "countHunted": 3,
+      "countHunted": 4,
       "weaknesses": {
         "Head": {
           "fire": 0,
@@ -4380,7 +4380,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 66,
+      "id": "66",
       "name": "Wind Serpent Ibushi",
       "huntedMini": false,
       "huntedGold": false,
@@ -4467,7 +4467,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 67,
+      "id": "67",
       "name": "Thunder Serpent Narwa",
       "huntedMini": false,
       "huntedGold": false,
@@ -4561,7 +4561,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 68,
+      "id": "68",
       "name": "Narwa the Allmother",
       "huntedMini": false,
       "huntedGold": false,
@@ -4655,7 +4655,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 69,
+      "id": "69",
       "name": "Crimson Glow Valstrax",
       "huntedMini": false,
       "huntedGold": true,
@@ -4735,7 +4735,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 70,
+      "id": "70",
       "name": "Risen Crimson Glow Valstrax",
       "huntedMini": false,
       "huntedGold": false,
@@ -4815,7 +4815,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 71,
+      "id": "71",
       "name": "Gaismagorm",
       "huntedMini": false,
       "huntedGold": false,
@@ -4895,7 +4895,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 72,
+      "id": "72",
       "name": "Amatsu",
       "huntedMini": false,
       "huntedGold": false,
@@ -4961,7 +4961,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 73,
+      "id": "73",
       "name": "Apex Arzuros",
       "huntedMini": false,
       "huntedGold": false,
@@ -5020,7 +5020,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 74,
+      "id": "74",
       "name": "Apex Rathian",
       "huntedMini": false,
       "huntedGold": false,
@@ -5086,7 +5086,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 75,
+      "id": "75",
       "name": "Apex Mizutsune",
       "huntedMini": false,
       "huntedGold": false,
@@ -5166,7 +5166,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 76,
+      "id": "76",
       "name": "Apex Rathalos",
       "huntedMini": false,
       "huntedGold": false,
@@ -5232,7 +5232,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 77,
+      "id": "77",
       "name": "Apex Diablos",
       "huntedMini": true,
       "huntedGold": true,
@@ -5312,7 +5312,7 @@
       "afflictedMaterials": []
     },
     {
-      "id": 78,
+      "id": "78",
       "name": "Apex Zinogre",
       "huntedMini": false,
       "huntedGold": true,
