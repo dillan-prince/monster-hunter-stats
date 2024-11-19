@@ -22,7 +22,9 @@ export type MonsterData = {
     sleep: number;
     blast: number;
   };
-  afflictedMaterials: string[];
+  afflictedMaterials: {
+    [material: string]: number;
+  };
 };
 
 export type SortMethod = "ID" | "ALPHABETICAL";

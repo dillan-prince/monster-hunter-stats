@@ -38,7 +38,11 @@ const MonsterList = () => {
         return true;
       }
 
-      if (monster.afflictedMaterials.some((material) => material.toLowerCase().includes(searchValue.toLowerCase()))) {
+      if (
+        Object.keys(monster.afflictedMaterials).some((material) =>
+          material.toLowerCase().includes(searchValue.toLowerCase())
+        )
+      ) {
         return true;
       }
 

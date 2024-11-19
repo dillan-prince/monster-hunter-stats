@@ -50,10 +50,11 @@
         "sleep": 3,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Pelt",
-        "Afflicted Hide+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Pelt": "1",
+        "Afflicted Hide+": 31,
+        "Afflicted Thickhide": 101
+      }
     },
     {
       "id": "2",
@@ -84,10 +85,11 @@
         "sleep": 0,
         "blast": 3
       },
-      "afflictedMaterials": [
-        "Afflicted Pelt",
-        "Afflicted Hide+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Pelt": "1",
+        "Afflicted Hide+": 31,
+        "Afflicted Thickhide": 101
+      }
     },
     {
       "id": "3",
@@ -132,10 +134,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Pelt",
-        "Afflicted Hide+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Pelt": "1",
+        "Afflicted Hide+": 31,
+        "Afflicted Thickhide": 101
+      }
     },
     {
       "id": "4",
@@ -166,17 +169,18 @@
         "sleep": 3,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Pelt",
-        "Afflicted Hide+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Pelt": "1",
+        "Afflicted Hide+": 31,
+        "Afflicted Thickhide": 101
+      }
     },
     {
       "id": "5",
       "name": "Arzuros",
       "huntedMini": true,
       "huntedGold": true,
-      "countHunted": 10,
+      "countHunted": 11,
       "weaknesses": {
         "Head": {
           "fire": 20,
@@ -221,17 +225,18 @@
         "sleep": 3,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Bone",
-        "Afflicted Hardbone"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Bone": 1,
+        "Afflicted Hardbone": 31,
+        "Afflicted Slogbone": 101
+      }
     },
     {
       "id": "6",
       "name": "Lagombi",
       "huntedMini": true,
       "huntedGold": true,
-      "countHunted": 13,
+      "countHunted": 14,
       "weaknesses": {
         "Head": {
           "fire": 30,
@@ -276,10 +281,11 @@
         "sleep": 1,
         "blast": 3
       },
-      "afflictedMaterials": [
-        "Afflicted Bone",
-        "Afflicted Hardbone"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Bone": 1,
+        "Afflicted Hardbone": 31,
+        "Afflicted Slogbone": 101
+      }
     },
     {
       "id": "7",
@@ -338,17 +344,18 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Bone",
-        "Afflicted Hardbone"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Bone": 1,
+        "Afflicted Hardbone": 31,
+        "Afflicted Slogbone": 101
+      }
     },
     {
       "id": "8",
       "name": "Aknosom",
       "huntedMini": true,
       "huntedGold": true,
-      "countHunted": 17,
+      "countHunted": 19,
       "weaknesses": {
         "Head": {
           "fire": 0,
@@ -414,10 +421,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Bone",
-        "Afflicted Hardbone"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Monster Bone": 1,
+        "Afflicted Monster Hardbone": 31,
+        "Afflicted Monster Slogbone": 101
+      }
     },
     {
       "id": "9",
@@ -483,10 +491,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Bone",
-        "Afflicted Hardbone"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Monster Bone": 1,
+        "Afflicted Monster Hardbone": 31,
+        "Afflicted Monster Slogbone": 101
+      }
     },
     {
       "id": "10",
@@ -538,17 +547,18 @@
         "sleep": 1,
         "blast": 3
       },
-      "afflictedMaterials": [
-        "Afflicted Bone",
-        "Afflicted Hardbone"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Monster Bone": 1,
+        "Afflicted Monster Hardbone": 31,
+        "Afflicted Monster Slogbone": 101
+      }
     },
     {
       "id": "11",
       "name": "Daimyo Hermitaur",
       "huntedMini": true,
       "huntedGold": true,
-      "countHunted": 10,
+      "countHunted": 12,
       "weaknesses": {
         "Head": {
           "fire": 30,
@@ -614,10 +624,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Blood",
-        "Afflicted Dragon Blood"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Blood": 1,
+        "Afflicted Dragon Blood": 31,
+        "Afflicted Pure Blood": 101
+      }
     },
     {
       "id": "12",
@@ -683,10 +694,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Blood",
-        "Afflicted Dragon Blood"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Blood": 1,
+        "Afflicted Dragon Blood": 31,
+        "Afflicted Pure Blood": 101
+      }
     },
     {
       "id": "13",
@@ -752,17 +764,18 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Blood",
-        "Afflicted Dragon Blood"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Blood": 1,
+        "Afflicted Dragon Blood": 31,
+        "Afflicted Pure Blood": 101
+      }
     },
     {
       "id": "14",
       "name": "Bishaten",
       "huntedMini": true,
       "huntedGold": true,
-      "countHunted": 16,
+      "countHunted": 18,
       "weaknesses": {
         "Head": {
           "fire": 20,
@@ -814,10 +827,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Blood",
-        "Afflicted Dragon Blood"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Blood": 1,
+        "Afflicted Dragon Blood": 31,
+        "Afflicted Pure Blood": 101
+      }
     },
     {
       "id": "15",
@@ -876,10 +890,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Shell",
-        "Afflicted Carapace"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Shell": 1,
+        "Afflicted Carapace": 31,
+        "Afflicted Cortex": 101
+      }
     },
     {
       "id": "16",
@@ -945,10 +960,11 @@
         "sleep": 3,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Scale",
-        "Afflicted Scale+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Scale": 1,
+        "Afflicted Scale+": 31,
+        "Afflicted Shard": 101
+      }
     },
     {
       "id": "17",
@@ -1014,10 +1030,11 @@
         "sleep": 0,
         "blast": 0
       },
-      "afflictedMaterials": [
-        "Afflicted Shell",
-        "Afflicted Carapace"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Shell": 1,
+        "Afflicted Carapace": 31,
+        "Afflicted Cortex": 101
+      }
     },
     {
       "id": "18",
@@ -1090,10 +1107,11 @@
         "sleep": 3,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Monster Bone",
-        "Afflicted Monster Hardnone"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Monster Bone": 1,
+        "Afflicted Monster Hardbone": 31,
+        "Afflicted Monster Slogbone": 101
+      }
     },
     {
       "id": "19",
@@ -1166,17 +1184,18 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Shell",
-        "Afflicted Carapace"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Shell": 1,
+        "Afflicted Carapace": 31,
+        "Afflicted Cortex": 101
+      }
     },
     {
       "id": "20",
       "name": "Aurora Somnacanth",
       "huntedMini": true,
       "huntedGold": true,
-      "countHunted": 12,
+      "countHunted": 13,
       "weaknesses": {
         "Head": {
           "fire": 15,
@@ -1242,17 +1261,18 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Claw",
-        "Afflicted Claw+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Claw": 1,
+        "Afflicted Claw+": 31,
+        "Afflicted Hardclaw": 101
+      }
     },
     {
       "id": "21",
       "name": "Rathian",
       "huntedMini": true,
       "huntedGold": true,
-      "countHunted": 21,
+      "countHunted": 29,
       "weaknesses": {
         "Head": {
           "fire": 0,
@@ -1311,10 +1331,11 @@
         "sleep": 1,
         "blast": 0
       },
-      "afflictedMaterials": [
-        "Afflicted Scale",
-        "Afflicted Scale+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Scale": 1,
+        "Afflicted Scale+": 31,
+        "Afflicted Shard": 101
+      }
     },
     {
       "id": "22",
@@ -1387,7 +1408,11 @@
         "sleep": 1,
         "blast": 0
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {
+        "Afflicted Dire Wing": 91,
+        "Afflicted Dire Wing+": 141,
+        "Afflicted Dire Fellwing": 201
+      }
     },
     {
       "id": "23",
@@ -1467,10 +1492,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Fang",
-        "Afflicted Fang+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Fang": 1,
+        "Afflicted Fang+": 31,
+        "Afflicted Hardfang": 101
+      }
     },
     {
       "id": "24",
@@ -1536,17 +1562,18 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Scale",
-        "Afflicted Scale+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Scale": 1,
+        "Afflicted Scale+": 31,
+        "Afflicted Shard": 101
+      }
     },
     {
       "id": "25",
       "name": "Magnamalo",
       "huntedMini": true,
       "huntedGold": true,
-      "countHunted": 27,
+      "countHunted": 29,
       "weaknesses": {
         "Head": {
           "fire": 0,
@@ -1612,10 +1639,11 @@
         "sleep": 1,
         "blast": 0
       },
-      "afflictedMaterials": [
-        "Afflicted Fang",
-        "Afflicted Fang+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Fang": 1,
+        "Afflicted Fang+": 31,
+        "Afflicted Hardfang": 101
+      }
     },
     {
       "id": "26",
@@ -1681,14 +1709,18 @@
         "sleep": 1,
         "blast": 0
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {
+        "Afflicted Dire Fang": 91,
+        "Afflicted Dire Fang+": 141,
+        "Afflicted Dire Hardfang": 201
+      }
     },
     {
       "id": "27",
       "name": "Anjanath",
       "huntedMini": true,
       "huntedGold": true,
-      "countHunted": 19,
+      "countHunted": 20,
       "weaknesses": {
         "Head": {
           "fire": 0,
@@ -1747,10 +1779,11 @@
         "sleep": 1,
         "blast": 0
       },
-      "afflictedMaterials": [
-        "Afflicted Scale",
-        "Afflicted Scale+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Scale": 1,
+        "Afflicted Scale+": 31,
+        "Afflicted Shard": 101
+      }
     },
     {
       "id": "28",
@@ -1823,10 +1856,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Fang",
-        "Afflicted Fang+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Fang": 1,
+        "Afflicted Fang+": 31,
+        "Afflicted Hardfang": 101
+      }
     },
     {
       "id": "29",
@@ -1899,7 +1933,7 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "30",
@@ -1979,9 +2013,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Dire Scale"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Dire Scale": 51,
+        "Afflicted Dire Scale+": 101,
+        "Afflicted Dire Shard": 161
+      }
     },
     {
       "id": "31",
@@ -2061,14 +2097,14 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "32",
       "name": "Goss Harag",
       "huntedMini": true,
       "huntedGold": true,
-      "countHunted": 18,
+      "countHunted": 20,
       "weaknesses": {
         "Head": {
           "fire": 20,
@@ -2120,17 +2156,18 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Claw",
-        "Afflicted Claw+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Claw": 1,
+        "Afflicted Claw+": 31,
+        "Afflicted Hardclaw": 101
+      }
     },
     {
       "id": "33",
       "name": "Garangolm",
       "huntedMini": true,
       "huntedGold": true,
-      "countHunted": 12,
+      "countHunted": 13,
       "weaknesses": {
         "Head": {
           "fire": 8,
@@ -2182,17 +2219,18 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Fang",
-        "Afflicted Fang+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Fang": 1,
+        "Afflicted Fang+": 31,
+        "Afflicted Hardfang": 101
+      }
     },
     {
       "id": "34",
       "name": "Shogun Ceanataur",
       "huntedMini": true,
       "huntedGold": true,
-      "countHunted": 15,
+      "countHunted": 16,
       "weaknesses": {
         "Head": {
           "fire": 10,
@@ -2258,10 +2296,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Shell",
-        "Afflicted Carapace"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Shell": 1,
+        "Afflicted Carapace": 31,
+        "Afflicted Cortex": 101
+      }
     },
     {
       "id": "35",
@@ -2327,9 +2366,11 @@
         "sleep": 1,
         "blast": 0
       },
-      "afflictedMaterials": [
-        "Afflicted Dire Scale"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Dire Scale": 51,
+        "Afflicted Dire Scale+": 101,
+        "Afflicted Dire Shard": 161
+      }
     },
     {
       "id": "36",
@@ -2402,7 +2443,11 @@
         "sleep": 1,
         "blast": 0
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {
+        "Afflicted Dire Wing": 91,
+        "Afflicted Dire Wing+": 141,
+        "Afflicted Dire Fellwing": 201
+      }
     },
     {
       "id": "37",
@@ -2468,10 +2513,11 @@
         "sleep": 1,
         "blast": 0
       },
-      "afflictedMaterials": [
-        "Afflicted Claw",
-        "Afflicted Claw+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Claw": 1,
+        "Afflicted Claw+": 31,
+        "Afflicted Hardclaw": 101
+      }
     },
     {
       "id": "38",
@@ -2537,9 +2583,11 @@
         "sleep": 1,
         "blast": 0
       },
-      "afflictedMaterials": [
-        "Afflicted Dire Bone"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Dire Bone": 51,
+        "Afflicted Dire Hardbone": 101,
+        "Afflicted Dire Slogbone": 161
+      }
     },
     {
       "id": "39",
@@ -2612,10 +2660,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Dire Horn",
-        "Afflicted Dire Horn+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Dire Horn": 51,
+        "Afflicted Dire Horn+": 101,
+        "Afflicted Dire Hardhorn": 161
+      }
     },
     {
       "id": "40",
@@ -2681,9 +2730,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Dire Bone"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Dire Bone": 51,
+        "Afflicted Dire Hardbone": 101,
+        "Afflicted Dire Slogbone": 161
+      }
     },
     {
       "id": "41",
@@ -2756,16 +2807,18 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Dire Scale"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Dire Scale": 51,
+        "Afflicted Dire Scale+": 101,
+        "Afflicted Dire Shard": 161
+      }
     },
     {
       "id": "42",
       "name": "Espinas",
       "huntedMini": false,
       "huntedGold": true,
-      "countHunted": 10,
+      "countHunted": 11,
       "weaknesses": {
         "Head": {
           "fire": 0,
@@ -2817,9 +2870,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Dire Shell"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Dire Shell": 71,
+        "Afflicted Dire Carapace": 111,
+        "Afflicted Dire Cortex": 181
+      }
     },
     {
       "id": "43",
@@ -2878,7 +2933,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {
+        "Afflicted Dire Blood": 91,
+        "Afflicted Dire Dragon Blood": 141,
+        "Afflicted Dire Darkblood": 201
+      }
     },
     {
       "id": "44",
@@ -2958,9 +3017,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Dire Shell"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Dire Shell": 71,
+        "Afflicted Dire Carapace": 111,
+        "Afflicted Dire Cortex": 181
+      }
     },
     {
       "id": "45",
@@ -3047,14 +3108,18 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {
+        "Afflicted Dire Blood": 91,
+        "Afflicted Dire Dragon Blood": 141,
+        "Afflicted Dire Darkblood": 201
+      }
     },
     {
       "id": "46",
       "name": "Seregios",
       "huntedMini": false,
       "huntedGold": false,
-      "countHunted": 13,
+      "countHunted": 15,
       "weaknesses": {
         "Head": {
           "fire": 0,
@@ -3120,10 +3185,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Dire Horn",
-        "Afflicted Dire Horn+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Dire Horn": 51,
+        "Afflicted Dire Horn+": 101,
+        "Afflicted Dire Hardhorn": 161
+      }
     },
     {
       "id": "47",
@@ -3189,9 +3255,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Dire Bone"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Dire Bone": 51,
+        "Afflicted Dire Hardbone": 101,
+        "Afflicted Dire Slogbone": 161
+      }
     },
     {
       "id": "48",
@@ -3271,10 +3339,11 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Dire Horn",
-        "Afflicted Dire Horn+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Dire Horn": 51,
+        "Afflicted Dire Horn+": 101,
+        "Afflicted Dire Hardhorn": 161
+      }
     },
     {
       "id": "49",
@@ -3326,17 +3395,18 @@
         "sleep": 1,
         "blast": 0
       },
-      "afflictedMaterials": [
-        "Afflicted Claw",
-        "Afflicted Claw+"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Claw": 1,
+        "Afflicted Claw+": 31,
+        "Afflicted Hardclaw": 101
+      }
     },
     {
       "id": "50",
       "name": "Pyre Rakna-Kadaki",
       "huntedMini": false,
       "huntedGold": false,
-      "countHunted": 8,
+      "countHunted": 9,
       "weaknesses": {
         "Head": {
           "fire": 0,
@@ -3381,9 +3451,11 @@
         "sleep": 1,
         "blast": 0
       },
-      "afflictedMaterials": [
-        "Afflicted Dire Claw"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Dire Claw": 71,
+        "Afflicted Dire Claw+": 111,
+        "Afflicted Dire Hardclaw": 181
+      }
     },
     {
       "id": "51",
@@ -3456,7 +3528,7 @@
         "sleep": 0,
         "blast": 3
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "52",
@@ -3529,7 +3601,10 @@
         "sleep": 0,
         "blast": 3
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {
+        "Risen Dragon Bone": 111,
+        "Risen Dragon Bone+": 161
+      }
     },
     {
       "id": "53",
@@ -3595,7 +3670,7 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "54",
@@ -3661,7 +3736,10 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {
+        "Risen Dragon Bone": 111,
+        "Risen Dragon Bone+": 161
+      }
     },
     {
       "id": "55",
@@ -3734,7 +3812,7 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "56",
@@ -3807,7 +3885,10 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {
+        "Risen Dragon Bone": 111,
+        "Risen Dragon Bone+": 161
+      }
     },
     {
       "id": "57",
@@ -3873,7 +3954,7 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "58",
@@ -3939,7 +4020,7 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "59",
@@ -4012,14 +4093,14 @@
         "sleep": 0,
         "blast": 0
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "60",
       "name": "Risen Shagaru Magala",
       "huntedMini": false,
       "huntedGold": false,
-      "countHunted": 0,
+      "countHunted": 1,
       "weaknesses": {
         "Head": {
           "fire": 20,
@@ -4085,7 +4166,7 @@
         "sleep": 0,
         "blast": 0
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "61",
@@ -4151,14 +4232,14 @@
         "sleep": 0,
         "blast": 3
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "62",
       "name": "Rajang",
       "huntedMini": true,
       "huntedGold": true,
-      "countHunted": 19,
+      "countHunted": 20,
       "weaknesses": {
         "Head": {
           "fire": 0,
@@ -4203,9 +4284,11 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": [
-        "Afflicted Dire Claw"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Dire Claw": 71,
+        "Afflicted Dire Claw+": 111,
+        "Afflicted Dire Hardclaw": 181
+      }
     },
     {
       "id": "63",
@@ -4257,7 +4340,11 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {
+        "Afflicted Dire Fang": 91,
+        "Afflicted Dire Fang+": 141,
+        "Afflicted Dire Hardfang": 201
+      }
     },
     {
       "id": "64",
@@ -4316,9 +4403,11 @@
         "sleep": 1,
         "blast": 0
       },
-      "afflictedMaterials": [
-        "Afflicted Dire Shell"
-      ]
+      "afflictedMaterials": {
+        "Afflicted Dire Shell": 71,
+        "Afflicted Dire Carapace": 111,
+        "Afflicted Dire Cortex": 181
+      }
     },
     {
       "id": "65",
@@ -4377,7 +4466,11 @@
         "sleep": 3,
         "blast": 0
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {
+        "Afflicted Dire Blood": 91,
+        "Afflicted Dire Dragon Blood": 141,
+        "Afflicted Dire Darkblood": 201
+      }
     },
     {
       "id": "66",
@@ -4464,7 +4557,7 @@
         "sleep": 1,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "67",
@@ -4558,7 +4651,7 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "68",
@@ -4652,7 +4745,7 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "69",
@@ -4732,7 +4825,7 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "70",
@@ -4812,7 +4905,7 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "71",
@@ -4892,7 +4985,7 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "72",
@@ -4958,7 +5051,7 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "73",
@@ -5017,7 +5110,7 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "74",
@@ -5083,7 +5176,7 @@
         "sleep": 0,
         "blast": 0
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "75",
@@ -5163,7 +5256,7 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "76",
@@ -5229,7 +5322,7 @@
         "sleep": 0,
         "blast": 0
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "77",
@@ -5309,7 +5402,7 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     },
     {
       "id": "78",
@@ -5382,7 +5475,7 @@
         "sleep": 0,
         "blast": 2
       },
-      "afflictedMaterials": []
+      "afflictedMaterials": {}
     }
   ]
 }
